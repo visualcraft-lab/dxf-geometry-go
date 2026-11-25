@@ -2,6 +2,8 @@
 // polyline length, shoelace polygon area, bounding boxes, DPI-to-millimeter
 // calibration, architectural drawing scale conversion, Ramer-Douglas-Peucker
 // polyline simplification, and minimal ASCII DXF LWPOLYLINE serialization.
+//
+// Reference formulas and interactive image-to-CAD converter: https://imgtocad.com/
 package dxfgeometry
 
 import (
